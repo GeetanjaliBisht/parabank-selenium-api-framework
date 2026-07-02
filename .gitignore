@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Reports
+reports/
+allure-results/
+allure-report/
+htmlcov/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+.coverage
+coverage.xml
+
+# Misc
+*.swp
